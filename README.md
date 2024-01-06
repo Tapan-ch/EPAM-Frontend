@@ -1,2 +1,2 @@
-#EPAM Frontend
+# Frontend
 Task
